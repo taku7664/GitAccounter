@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# 배치 파일은 CP949 인코딩과 CRLF 줄바꿈이 유지되어야 정상 동작합니다.
+*.bat -text
+*.ico binary

@@ -4,6 +4,18 @@ Git 인증 정보를 간편하게 교체하고 관리해주는 프로그램입�
 
 GitHub CLI(`gh`)에 계정을 여러 개 등록해 두고 필요할 때 바꿔 쓸 수 있지만, 바꿀 때마다 계정 이름을 정확히 쳐야 합니다. GitAccounter는 등록한 계정에 번호를 붙여 보여 줍니다. 번호만 입력하면 계정을 바꿉니다.
 
+## 내려받기
+
+[**GitAccounter.zip 내려받기**](https://github.com/taku7664/GitAccounter/releases/latest/download/GitAccounter.zip) — 늘 최신 판을 가리킵니다.
+
+[릴리즈 목록](https://github.com/taku7664/GitAccounter/releases)에서 지난 판도 받을 수 있습니다.
+
+## 설치
+
+1. 위 링크로 `GitAccounter.zip`을 받아 원하는 폴더에 풉니다. `GitAccounter.bat`과 `GitAccounter.ico`를 같은 폴더에 두어야 아이콘이 붙습니다.
+2. `GitAccounter.bat`을 실행합니다.
+3. `link`를 입력해 바로 가기를 만듭니다. 바탕 화면에 두시려면 `link %USERPROFILE%\Desktop`이라고 입력하십시오.
+
 ## 화면
 
 ```
